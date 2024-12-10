@@ -1,6 +1,11 @@
 # Prisca Olose - Software Developer & Cybersecurity Enthusiast
 
-## About Me
+
+![373640facd5b03492d83061b974bee67-sticker](https://github.com/user-attachments/assets/99b496ad-09df-4d3c-aa21-cd6b1f168d7c)
+
+
+
+## About Me 
 
 I enjoy working at the intersection of **software development**, **cybersecurity**, and **technologies** like **AI** and **blockchain**. I'm always learning and exploring new technologies. My goal is to combine my love for technology, creativity, and user-focused solutions to create secure systems. Here, you'll find my personal projects and coding journey.
 
