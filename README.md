@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm **Prisca Olose**, a passionate and curious software de
 
 ## About Me 
 
-I enjoy working at the intersection of **software development**, **cybersecurity**, and **technologies** like **AI** and **blockchain**. I'm always learning and exploring new technologies. 
+I enjoy working at the intersection of **software development**, **cybersecurity**, and **AI** and **machine learning**. I'm always learning and exploring new technologies. 
 
 
 ## Technologies & Tools I Work With
